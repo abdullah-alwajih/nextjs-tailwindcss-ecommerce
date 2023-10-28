@@ -3,7 +3,7 @@ import {Col, Container, Row} from 'react-bootstrap'
 import UserAllAddress from '../../Components/User/UserAllAddress'
 import UserSideBar from '../../Components/User/UserSideBar'
 
-const UserAllAddresPage = () => {
+const UserAllAddressPage = () => {
   return (
     <Container>
       <Row className='py-3'>
@@ -19,4 +19,4 @@ const UserAllAddresPage = () => {
   )
 }
 
-export default UserAllAddresPage
+export default UserAllAddressPage
